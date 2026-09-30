@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    text-align: center;
+}
+
+txt {
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+    font-size: 24px;
+    color: #ff5555;
+    font-weight: bold;
+}
+
+nxt {
+    text-align: center;
+    display: block;
+    margin-top: 0px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #ff5555;
+}
